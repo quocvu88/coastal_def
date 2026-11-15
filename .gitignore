@@ -1,0 +1,24 @@
+# Android / Gradle build output
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/.idea/
+android/captures/
+*.iml
+
+# Machine-specific Android SDK path
+android/local.properties
+
+# Built packages (rebuild with android/BUILD.md)
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

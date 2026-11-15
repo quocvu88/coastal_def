@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher art: lighthouse on the beach sweeping its beam over the sea. Content stays inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- beam -->
+    <path android:fillColor="#FFC94A" android:fillAlpha="0.55"
+        android:pathData="M58,37 L84,27 L84,47 Z" />
+    <!-- sea foam -->
+    <path android:strokeColor="#EEF6F1" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M26,62 Q30,59 34,62 M70,60 Q74,57 78,60 M64,68 Q68,65 72,68" />
+    <!-- sand -->
+    <path android:fillColor="#E8CF96"
+        android:pathData="M21,78 Q54,68 87,78 L87,88 L21,88 Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="2.2" android:fillColor="#00000000"
+        android:pathData="M21,78 Q54,68 87,78" />
+    <!-- tower -->
+    <path android:fillColor="#F2EFE6" android:pathData="M47.5,75 L60.5,75 L57.5,40 L50.5,40 Z" />
+    <path android:fillColor="#D8423A" android:pathData="M48.6,66 L59.4,66 L58.8,59 L49.2,59 Z" />
+    <path android:fillColor="#D8423A" android:pathData="M49.8,52 L58.2,52 L57.7,46 L50.3,46 Z" />
+    <!-- lamp room -->
+    <path android:fillColor="#2C3438" android:pathData="M49,34 L59,34 L59,40 L49,40 Z" />
+    <path android:fillColor="#FFC94A" android:pathData="M50.5,35.2 L57.5,35.2 L57.5,38.8 L50.5,38.8 Z" />
+    <path android:fillColor="#FF6A2B" android:pathData="M47.5,34 L54,27.5 L60.5,34 Z" />
+</vector>
